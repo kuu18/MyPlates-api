@@ -52,5 +52,4 @@ Thumbs.db
 *.log
 *.swp
 *.bak
-environment
 *.env
